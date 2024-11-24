@@ -1,0 +1,4 @@
+# .gitignore
+models/IRV2_fwm_7_wa.keras
+models/IRV2_fwm_3_wa.keras
+models/Xptn_fwm_3_wa.keras
