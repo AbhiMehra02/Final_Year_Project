@@ -4,4 +4,5 @@ numpy
 tensorflow  
 scikit-learn
 scipy
-
+git+https://github.com/git-lfs/git-lfs.git
+matplotlib
