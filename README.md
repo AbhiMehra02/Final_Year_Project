@@ -1,7 +1,9 @@
-Rice Seeds Classification using AI/ML
+# Rice Seeds Classification using AI/ML
 
-Project Overview
+## Project Overview
 This project uses machine learning techniques to classify five types of rice varieties: Arborio, Basmati, Ipsala, Jasmine, and Karacadag, using image data. The dataset contains 75,000 images (15,000 per variety) sourced from Kaggle.
+
+---
 
 ## Models Used
 
