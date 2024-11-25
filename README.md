@@ -20,16 +20,19 @@ Exploring lightweight models for deployment in production.
 Installation
 Clone the repository:
 
-bash```
+bash
+```
 git clone https://github.com/yourusername/rice-agriculture-ml.git
 ```
 Install dependencies:
 
-bash```
+bash
+```
 pip install -r requirements.txt
 ```
 
 Run the Streamlit app:
-bash```
+bash
+```
 streamlit run app.py
 ```
